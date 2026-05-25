@@ -5,12 +5,7 @@
 💻 Passionate Frontend Developer from Bangladesh 🇧🇩
 </h3>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=🚀+Building+Modern+Web+Applications;💙+Frontend+Developer+from+Bangladesh;⚡+React+%7C+Next.js+%7C+Tailwind+CSS;🌱+Always+Learning+New+Technologies"
-    alt="Typing SVG" 
-  />
-</p>
+
 
 ---
 
@@ -97,4 +92,3 @@
 </p>
 ```
 
-এটা copy করে তোমার `README.md` তে paste করলেই হবে 🚀
